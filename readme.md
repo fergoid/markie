@@ -9,7 +9,7 @@ git local & remote
     git status  
 7. First commit  
     git commit -m 'Initial commit'  
-9. Add remote
+9. Add remote  
     git remote add origin https://github.com/fergoid/markie.git  
-11. Push from local to remote
+11. Push from local to remote  
     git push origin master
